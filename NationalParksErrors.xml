@@ -1,3 +1,137 @@
-﻿<NationalParks xmlns="http://venus.sod.asu.edu/WSRepository/xml">
-	
-</NationalParks>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns="http://venus.sod.asu.edu/WSRepository/xml">
+	<NationalPark Rating="4.9">
+		<Name>"Grand Canyon"</Name>
+		<Phone>"928-638-7496"</Phone>
+		<Phone>"888-297-2757"</Phone>
+		<Phone>"866-499-2574"</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>"S Entrance Road"</Street>
+			<City>"Grand Canyon"</City>
+			<State>"AZ"</State>
+			<Zip>"86023"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Great Smoky Mountains"</Name>
+		<Phone>"865-436-1200"</Phone>
+		<Address>
+			<Number>107</Number>
+			<Street>"Park Headquarters Road"</Street>
+			<City>"Gatlinburg"</City>
+			<State>"TN"</State>
+			<Zip>"37738"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Grand Teton"</Name>
+		<Phone>"307-739-3399"</Phone>
+		<Address NearestAirport="Salt Lake City">
+			<Number>103</Number>
+			<Street>"Headquarters Rd"</Street>
+			<City>"Moose"</City>
+			<State>"WY"</State>
+			<Zip>"83012"</Zip>
+		</Address>
+	</NationalPark>
+
+
+	<NationalPark>
+		<Name>"Yellowstone"</Name>
+		<Address NearestAirport="Grand Island">
+			<Number>2</Number>
+			<Street>"Officers Row"</Street>
+			<City>"ellowstone National Park"</City>
+			<State>"WY"</State>
+			<Zip>"82190"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"North Cascades"</Name>
+		<Phone>"360-854-7200"</Phone>
+		<Address NearestAirport="Bellingham">
+			<Number>810</Number>
+			<Street>"State Route 20"</Street>
+			<City>"Sedro-Woolley"</City>
+			<State>"WA"</State>
+			<Zip>"98284"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Shenandoah"</Name>
+		<Phone>"540-999-3500"</Phone>
+		<Address NearestAirport="Staunton">
+			<Number>3655</Number>
+			<Street>"U.S. Highway 211 East"</Street>
+			<City>"Luray"</City>
+			<State>"VA"</State>
+			<Zip>"22835"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Arches"</Name>
+		<Phone>"435-719-2299"</Phone>
+		<Address NearestAirport="Moab">
+			<Number>1850</Number>
+			<Street>"South Main Street"</Street>
+			<City>"Moab"</City>
+			<State>"UT"</State>
+			<Zip>"84532"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Bryce Canyon"</Name>
+		<Phone>"435-834-5322"</Phone>
+		<Address NearestAirport="Cedar City">
+			<Number>640201</Number>
+			<Street>"P.O Box"</Street>
+			<City>"Bryce"</City>
+			<State>"UT"</State>
+			<Zip>"84764"</Zip>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Canyonlands"</Name>
+		<Phone>"435-719-2313"</Phone>
+		<Address NearestAirport="Moab">
+			<Number>2282</Number>
+			<Street>"Resource Blvd."</Street>
+			<City>"Moab"</City>
+			<State>"UT"</State>
+			<Zip>"84532"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Theodore Roosevelt"</Name>
+		<Name>"Namadore Moosevelt"</Name>
+		<Phone>"701-623-4466"</Phone>
+		<Address NearestAirport="Dickinson">
+			<Number>7</Number>
+			<Street>"P.O. Box"</Street>
+			<City>"Medora"</City>
+			<State>"ND"</State>
+			<Zip>"58645"</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>"Mount Rainier"</Name>
+		<Phone>"360-569-2211"</Phone>
+		<Address NearestAirport="Yakima">
+			<Number>55210</Number>
+			<Street>"238th Avenue East"</Street>
+			<City>"Ashford"</City>
+			<State>"WA"</State>
+			<Zip>"98304"</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalPark>
