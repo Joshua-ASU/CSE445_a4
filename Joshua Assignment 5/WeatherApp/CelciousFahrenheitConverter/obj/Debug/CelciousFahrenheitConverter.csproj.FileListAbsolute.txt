@@ -1,0 +1,9 @@
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\bin\Debug\CelciousFahrenheitConverter.dll
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\bin\Debug\CelciousFahrenheitConverter.pdb
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\obj\Debug\CelciousFahrenheitConverter.csproj.AssemblyReference.cache
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\obj\Debug\CelciousFahrenheitConverter.csproj.CoreCompileInputs.cache
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\obj\Debug\CelciousFahrenheitConverter.dll
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\obj\Debug\CelciousFahrenheitConverter.pdb
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\CelciousFahrenheitConverter\obj\Debug\Celcious.368B3197.Up2Date

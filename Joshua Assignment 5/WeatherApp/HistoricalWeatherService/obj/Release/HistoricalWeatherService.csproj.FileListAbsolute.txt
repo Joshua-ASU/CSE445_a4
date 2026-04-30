@@ -1,0 +1,10 @@
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\bin\HistoricalWeatherService.dll.config
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\bin\HistoricalWeatherService.dll
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\bin\HistoricalWeatherService.pdb
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\bin\Newtonsoft.Json.dll
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\bin\Newtonsoft.Json.xml
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\obj\Release\HistoricalWeatherService.csproj.AssemblyReference.cache
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\obj\Release\HistoricalWeatherService.csproj.CoreCompileInputs.cache
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\obj\Release\Historic.A2E4723F.Up2Date
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\obj\Release\HistoricalWeatherService.dll
+C:\Users\moomo\Desktop\Assignment 5\WeatherApp\HistoricalWeatherService\obj\Release\HistoricalWeatherService.pdb

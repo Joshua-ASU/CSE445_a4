@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="95eab39d-0eec-4747-a4b5-bef8fa2cfb6d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://webstrarportal.fulton.asu.edu/sites/website169/Page1/HWeatherService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HWeatherService.wsdl" MetadataType="Wsdl" ID="e7079020-b9d7-4fb3-b6c5-080910e0c509" SourceId="1" SourceUrl="http://webstrarportal.fulton.asu.edu/sites/website169/Page1/HWeatherService.svc?wsdl" />
+    <MetadataFile FileName="HWeatherService.xsd" MetadataType="Schema" ID="296a4f12-4874-4065-ad3a-cf64e5b33db6" SourceId="1" SourceUrl="http://webstrarportal.fulton.asu.edu/sites/website169/Page1/HWeatherService.svc?xsd=xsd1" />
+    <MetadataFile FileName="HWeatherService.disco" MetadataType="Disco" ID="b812f019-621e-4896-93f8-e709c92aa29f" SourceId="1" SourceUrl="http://webstrarportal.fulton.asu.edu/sites/website169/Page1/HWeatherService.svc?disco" />
+    <MetadataFile FileName="HWeatherService1.xsd" MetadataType="Schema" ID="189138f5-f95c-4084-bf1c-85dd50d8c826" SourceId="1" SourceUrl="http://webstrarportal.fulton.asu.edu/sites/website169/Page1/HWeatherService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
